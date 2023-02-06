@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barista Contest 3 1", "Bari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Help-A-Mole", "Help-A-Mole\Help-A-Mole.csproj", "{93E0515B-8BBD-467C-87AB-68C43372A161}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball", "Basketball\Basketball.csproj", "{F13309F6-E19A-4906-97FB-D0E7D7015922}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{93E0515B-8BBD-467C-87AB-68C43372A161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E0515B-8BBD-467C-87AB-68C43372A161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E0515B-8BBD-467C-87AB-68C43372A161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13309F6-E19A-4906-97FB-D0E7D7015922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13309F6-E19A-4906-97FB-D0E7D7015922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13309F6-E19A-4906-97FB-D0E7D7015922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13309F6-E19A-4906-97FB-D0E7D7015922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
